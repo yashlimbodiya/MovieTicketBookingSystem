@@ -1,0 +1,3 @@
+jdbcUrl=jdbc:mysql://127.0.0.1:3307/ood_finalproject1
+username=root
+password=root
