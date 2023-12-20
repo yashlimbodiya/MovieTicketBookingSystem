@@ -6,13 +6,13 @@
 Project README: Movie Booking and Review System
 
 ### Overview
-This project is a Java-based web application designed for managing movie bookings, customer reviews, and other related functionalities in a movie theater context.
+This project is a Java application designed for managing movie bookings, customer reviews, and other related functionalities in a movie theater context.
 
 ### Structure
 #### View Classes:
 
 #### Controller Classes: 
-Handle HTTP requests and responses. Includes BookingController, MovieController, ReviewController, ScreenController, SeatController, ShowController, TheatreController.
+Handle data requests and responses. Includes BookingController, MovieController, ReviewController, ScreenController, SeatController, ShowController, TheatreController.
 #### Model Classes: 
 Represent data structures. Includes Booking, Customer, Movie, Review, Screen, Seat, Show, Theatre.
 DAO (Data Access Object) Classes: Facilitate CRUD operations for database interaction. Includes BookingDao, CustomerDao, MovieDao, ReviewDao, ScreenDao, SeatDao, ShowDao, TheatreDao.
